@@ -1,6 +1,6 @@
 # Alison Intelligence AI
 
-AI-powered search and chat for Alison.com
+A Protoyped Demo -> AI-powered search and chat for Alison.com trained on 500 blog articles
 
 ![image](https://user-images.githubusercontent.com/48835836/230993185-5f54615d-be67-4b41-9144-f7ec5364ff29.png)
 
